@@ -5,7 +5,7 @@ Python-based mini projects that include small cli games and other cli-based proj
 - Go to your ide and select your preferred interpreter
 - Start running and respond with prompts according to the terminal
 --- 
-## Author: Jawad Bin Azam
+## Author: Jawad Bin Azam <br/>
 ## Region: Bangladesh
 
   
