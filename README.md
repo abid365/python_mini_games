@@ -7,9 +7,9 @@ This is a Python-based mini-game 🎮 project. The games show results in traditi
 - Start running and respond with prompts according to the terminal
 ---
 
-Or you can run these programs using Repltit 👉 [![Run on Repl.it](https://replit.com/badge/github/abid365/python_mini_games)](https://replit.com/new/github/abid365/python_mini_games)
+## Or you can run these programs using Repltit 
 
-- Go to the link
+- Go to the link 👉 [![Run on Repl.it](https://replit.com/badge/github/abid365/python_mini_games)](https://replit.com/new/github/abid365/python_mini_games)
 - Click your desired program
 - Go to shell and type: ``` python filename.py```
 - Example : ``` python word_count.py```
