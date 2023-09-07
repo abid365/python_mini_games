@@ -1,5 +1,6 @@
-# python_mini_games
-Python-based mini projects that include small cli games and other cli-based project functionalities.
+# 👋 Hey Everyone,
+This is a Python-based mini-game project. The games show results in traditional cli form 🤠. You can run these games online via replit or you can clone this repo and run on your local device. The choice is yours dear fellow programmers 🍩.
+
 ## How to start this project?
 - Clone this repo
 - Go to your ide and select your preferred interpreter
